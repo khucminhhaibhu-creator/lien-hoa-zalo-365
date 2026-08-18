@@ -1,0 +1,7 @@
+name = "lien-hoa-zalo-365"
+main = "worker/src/index.js"
+compatibility_date = "2026-08-18"
+workers_dev = true
+
+[vars]
+ZALO_API_BASE = "https://openapi.zalo.me"
